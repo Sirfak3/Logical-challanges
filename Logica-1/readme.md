@@ -1,6 +1,4 @@
-<h1> Logic Challange 1
-
-<h2> Desafio de logica 1
+# Logic Challange 1
 
 Write a program that determines whether a string is a palindrome.
 *A string is considered a palindrome if it can be read the same way forwards and backwards, ignoring spaces, punctuation, and case differences.*
